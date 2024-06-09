@@ -1,0 +1,3 @@
+Hello world! Hello, everyone.
+This is a test. A test for counting words hello, world.
+I am Ashraf -- Ali.
